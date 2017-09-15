@@ -2,7 +2,7 @@
 
 ## 分支说明
 
-本项目为https://git.oschina.net/zjg23/fastdfs_in_docker项目的分支，做进一步的定制。
+本项目为https://git.oschina.net/zjg23/fastdfs_in_docker 项目的分支，做进一步的定制。
 
 ## 定制说明
 
