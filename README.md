@@ -6,7 +6,7 @@
 
 ## 定制说明
 
-- groupName 取之为：group0 - group9，以group0开始
+- groupName 取值为：group0 - group9，以group0开始
 - 提取token相关参数
 
 ## 使用说明
